@@ -13,7 +13,7 @@ I planned out that i would make a simple testing project first that would be tra
 started programming the project in mind
 Used a libarary called Newtonsoft.Json that made working with JSON data easier to work with and learned about serialization and deserialization newtonsoft.json https://www.youtube.com/watch?v=nx37hWBWif4&ab_channel=ZetBit from this video.
 
-I wasn't sure what my uncle was talking about when he talked about asynchronous programming and how it would help my program, so i didn't bother looking into it.  
+I wasn't sure what my uncle was talking about when he talked about asynchronous programming and how it would help my program, so i looked into it some.  
 
 I DID HOWERVER start to realize that PokeAPI is super well documented and i could easily make HTTTP request to the PokeAPI.  
 
